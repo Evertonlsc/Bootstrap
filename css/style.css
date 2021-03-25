@@ -1,26 +1,35 @@
-
-body{
-    font: 20px Arial, sans-serif;
-}
-.navbar {
-    background-color: #81F7D8;
-}
-
-.quem-somos{
-    background-color: #8181F7;
-    color: white;
-}
-
-.margin{   
-    padding-bottom: 50px;    
-    padding-top: 10px;
-}
-
-.parceiros{
-    background-color: #58FAF4;
-}
-
-.bg-footer{
-    background-color: black;
-    color: white;
-}
+    body {
+        font: 20px Arial, sans-serif;
+    }
+    
+    .navbar {
+        background-color: #3f3848;
+    }
+    
+    .quem-somos {
+        background-color: #ffca0c;
+        color: black;
+    }
+    
+    .margin {
+        padding-bottom: 50px;
+        padding-top: 10px;
+    }
+    
+    .parceiros {
+        background-color: #3f3848;
+        color: aliceblue;
+    }
+    
+    .bg-footer {
+        background-color: black;
+        color: white;
+    }
+    
+    .navbar-light .navbar-nav .nav-link {
+        color: white;
+    }
+    
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #FFFF00;
+    }
